@@ -1,3 +1,4 @@
+# linux. eca!
 # comando para montar a particoes
 mount /dev/sda1 /boot 		# /boot
 mount /dev/sda3 /mnt/gentoo 	# /
